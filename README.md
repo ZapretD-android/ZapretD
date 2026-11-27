@@ -8,7 +8,7 @@
 
 ## Русский
 
-zapretD — Android-приложение на Kotlin для обхода DPI-блокировок Discord и YouTube. Интерфейс в стиле Material Design 3, тёмная и светлая тема.
+zapretD — Android-приложение на Kotlin для обхода DPI-блокировок Discord и YouTube. Интерфейс в стиле Material Design 3
 
 Основано на пресетах [zapret-discord-youtube](https://github.com/flowseal/zapret-discord-youtube) для Windows: `general`, `general (ALT)`, `SIMPLE FAKE`, `FAKE TLS AUTO` и другие, всего 22 варианта.
 
